@@ -1,0 +1,69 @@
+{"courses":
+[
+
+	{
+	"course_name":"CMPS251 Object Oriented Programing",
+	"topics":[
+		{"topic_name":"t1java","topic_Definition":"t1_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t1java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q2t1java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t1java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t1java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q5t1java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"url"},
+		{"topic_name":"t2java","topic_Definition":"t1_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q2t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q5t2java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"url"}
+		]
+	},
+	{
+	"course_name":"CMPS305 operating system",
+	"topics":[
+		{"topic_name":"t1os","topic_Definition":"t1os_definition","topic_Example":"t1os_example",
+		"questions":[
+			{"Question":"q1t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},								{"Question":"q2t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t1os","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"url"},
+		{"topic_name":"t2os","topic_Definition":"t1_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},								{"Question":"q2t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t2os","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"url"}
+		]
+	},
+	{
+	"course_name":"CMPS312 Mobile application development",
+	"topics":[
+		{"topic_name":"t1mobile","topic_Definition":"t1mobile_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q2t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t1mobile","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"url"},
+		{"topic_name":"t2mobile","topic_Definition":"t1_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q2t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t2mobile","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"urlt2mobile"}
+		]
+	}
+		
+]	
+}
