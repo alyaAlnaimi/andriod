@@ -1,0 +1,9 @@
+{"courses":
+[
+
+	{"course_name":"CMPS312 Mobile application development",
+"topics":[{"topic_name":"t1","topic_Definition":"t1_definition","topic_Example":"t1_example","questions":[{"Question":"q1","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},{"Question":"q2","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}],"URL":"url"},{"topic_name":"tt1","topic_Definition":"t1_definition","topic_Example":"t1_example","questions":"questions","URL":"url"}]},
+	{"course_name":"CMPS312 Mobil application development","topics":"topics"}
+	
+]	
+}
