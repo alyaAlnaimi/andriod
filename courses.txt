@@ -1,8 +1,0 @@
-{"courses":
-[
-
-	{"course_name":"CMPS312 Mobile application development","topics":"topics"},
-	{"course_name":"CMPS312 Mobil application development","topics":"topics"}
-	
-]	
-}
