@@ -12,19 +12,9 @@
 			"Question3":{"Q3":"Q3_place","A1":"A1_place","A2":"A2_place","A3":"A3_place","A4":"A4_place","Correct":"correct"},
 			"Question4":{"Q4":"Q4_place","A1":"A1_place","A2":"A2_place","A3":"A3_place","A4":"A4_place","Correct":"correct"}
 			]	
-		},
-		"Topic2":{"topic_name":"t2_name","definition":"t2_definition","example":"t2_example","URL":"www.youtube.com",
-		{
-		"Questions":
-			[
-			"Question1":{"Q1":"Q1_place","A1":"A1_place","A2":"A2_place","A3":"A3_place","A4":"A4_place","Correct":"correct"},
-			"Question2":{"Q2":"Q2_place","A1":"A1_place","A2":"A2_place","A3":"A3_place","A4":"A4_place","Correct":"correct"},
-			"Question3":{"Q3":"Q3_place","A1":"A1_place","A2":"A2_place","A3":"A3_place","A4":"A4_place","Correct":"correct"},
-			"Question4":{"Q4":"Q4_place","A1":"A1_place","A2":"A2_place","A3":"A3_place","A4":"A4_place","Correct":"correct"}
-			]
 		}
 		]
 	}
 	}
-}
+
 }
