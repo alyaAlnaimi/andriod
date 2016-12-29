@@ -1,0 +1,182 @@
+{"courses":
+[
+
+	{
+	"course_name":"CMPS151 Programing Concepts",
+	"topics":[
+		{"topic_name":"objects and classes","topic_Definition":"Classes – the definitions for the data format and available procedures for a given 		type or class of object; may also contain data and procedures (known as class methods) themselves, i.e. classes contains the data members 		and member functions
+		Objects – instances of classes","topic_Example":"fruit is a class while apple , orange are obejects of fruit class",
+		"questions":[
+			{"Question":"which one of these is a 			class?","Answer1":"tomato","Answer2":"apple","Answer3":"juice","Answer4":"pinapple","correct":"juice"},
+			{"Question":"which one of these does not belong 			to the same class ?","Answer1":"toyoyta","Answer2":"gmc","Answer3":"audi","Answer4":"car","correct":"car"},
+			{"Question":"which of these is not one of thevariables in student class ?","Answer1":"student name","Answer2":"student id","Answer3":"Alya","Answer4":"birthdate","correct":"Alya"},
+			{"Question":"Which one is class from the following 			?","Answer1":"Animal","Answer2":"cat","Answer3":"dog","Answer4":"horse","correct":"Animal"},									{"Question":"q5t1java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+			],
+			"URL":"https://www.youtube.com/watch?v=4XRy-TdfU0I"},
+			{"topic_name":"arrays","topic_Definition":"An array is a group of variables/elements of the same type , Arrays are objects","topic_Example":"int[] c = new int[ 12 ];",
+		"questions":[
+			{"Question":"What is right way to Initialize array?","Answer1":"int num[6] = { 2, 4, 12, 5, 45, 5 };","Answer2":"int n{} = { 2, 4, 12, 5, 45, 5 };","Answer3":"int n{6} = { 2, 4, 12 };","Answer4":"int n(6) = { 2, 4, 12, 5, 45, 5 };","correct":"int num[6] = { 2, 4, 12, 5, 45, 5 };
+"},
+			{"Question":"#include<stdio.h>
+void main()
+{
+    int a[5] = {5, 1, 15, 20, 25};
+    int i, j, m;
+    i = ++a[1];
+    j = a[1]++;
+    m = a[i++];
+    printf("%d, %d, %d", i, j, m);
+}","Answer1":"3, 2, 15","Answer2":"2, 3, 20
+ 
+","Answer3":"2, 1, 15","Answer4":"1, 2, 5","correct":"3, 2, 15"},
+			{"Question":"#include <stdio.h>
+int main(void)
+{
+    char p;
+    char buf[10] = {1, 2, 3, 4, 5, 6, 9, 8};
+    p = (buf + 1)[5];
+    printf("%d", p);
+    return 0;
+}","Answer1":"5","Answer2":"6","Answer3":"9","Answer4":"Error","correct":"9"},
+			{"Question":"An array elements are always stored in ________ memory locations.","Answer1":"Sequential","Answer2":"Random","Answer3":"Sequential and Random","Answer4":"None of the above","correct":"Sequential"},							{"Question":"Let x be an array. Which of the following operations are illegal?","Answer1":"1 & 2","Answer2":"1 & 2 & 3","Answer3":"2 & 3","Answer4":"1 & 3 & 4","correct":"1 & 3 & 4"}
+			],
+		"URL":"https://www.youtube.com/watch?v=ZLk7qV9wEDw"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},{
+	"course_name":"CMPS251 Object Oriented Programing",
+	"topics":[
+		{"topic_name":"Abstract Classes","topic_Definition":"Abstract classes are classes that contain one or more abstract methods. An abstract method is a method that is declared, but contains no implementation. Abstract classes may not be instantiated, and require subclasses to provide implementations for the abstract methods.","topic_Example":"public abstract Animal
+{
+   public void eat(Food food)
+   {
+        // do something with food.... 
+   }
+
+   public void sleep(int hours)
+   {
+        try
+	{
+		// 1000 milliseconds * 60 seconds * 60 minutes * hours
+		Thread.sleep ( 1000 * 60 * 60 * hours);
+	}
+	catch (InterruptedException ie) { /* ignore */ } 
+   }
+
+   public abstract void makeNoise();
+}",
+		"questions":[
+			{"Question":"Which of these keywords are used to define an abstract class","Answer1":"abst","Answer2":"abstract","Answer3":"Abstract","Answer4":"abstract class","correct":"abstract"},
+			{"Question":"Which of these is not abstract?","Answer1":"Thread","Answer2":"AbstractList","Answer3":"List","Answer4":"None of the Mentioned","correct":"Thread"},
+			{"Question":"If a class inheriting an abstract class does not define all of its function then it will be known as?","Answer1":"abstract","Answer2":"A simple class","Answer3":"Static class","Answer4":"None of the mentioned","correct":"abstract"},
+			{"Question":"Which of these is not a correct statement?","Answer1":"Every class containing abstract method must be declared abstract.","Answer2":"Abstract class defines only the structure of the class not its implementation.","Answer3":"Abstract class can be initiated by new operator.","Answer4":"Abstract class can be inherited.
+","correct":"Abstract class can be initiated by new operator."},									{"Question":"Which of these packages contains abstract keyword?","Answer1":"java.lang","Answer2":"java.util","Answer3":"java.io","Answer4":"java.system","correct":"java.lang"}
+			],
+			"URL":"https://www.youtube.com/watch?v=HiGYQofy1Lc"},
+			{"topic_name":"interface","topic_Definition":"An interface in the Java programming language is an abstract type that is used to specify a behaviour that classes must implement. ... Starting with Java 8, default and static methods may have implementation in the interface definition. Interfaces cannot be instantiated, but rather are implemented.","topic_Example":"interface printable{  
+void print();  
+}",
+		"questions":[
+			{"Question":"Which of these keywords is used to define interfaces in Java?","Answer1":"interface","Answer2":"Interface","Answer3":"intf","Answer4":"Intf","correct":"interface"},
+			{"Question":"Which of these can be used to fully abstract a class from its implementation?","Answer1":"Objects","Answer2":"Packages","Answer3":"Interfaces","Answer4":"None of the Mentioned","correct":"Interfaces"},
+			{"Question":"Which of these access specifiers can be used for an interface?","Answer1":"Public","Answer2":"Protected","Answer3":"private","Answer4":"All of the mentioned","correct":"Public"},
+			{"Question":"Which of these keywords is used by a class to use an interface defined previously?","Answer1":" import","Answer2":"Import","Answer3":"implements","Answer4":"Implements","correct":"implements"},							{"Question":"Which of the following is correct way of implementing an interface salary by class manager?","Answer1":"class manager extends salary {}","Answer2":" class manager implements salary {}","Answer3":"class manager imports salary {}","Answer4":"None of the mentioned","correct":" class manager implements salary {}"}
+			],
+		"URL":"https://www.youtube.com/watch?v=Yaa3QroWe7Q"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},
+	{
+	"course_name":"CMPS303 Data Structure",
+	"topics":[
+		{"topic_name":"linked list","topic_Definition":"an ordered set of data elements, each containing a link to its successor (and sometimes its predecessor).","topic_Example":"12=>99=>37=>null",
+		"questions":[
+			{"Question":"Generally collection of Nodes is called as __________.","Answer1":"stack","Answer2":"linked list","Answer3":"heap","Answer4":"pointer","correct":"linked list"},
+			{"Question":"Linked lists are best suited .....","Answer1":" for relatively permanent collections of data.","Answer2":"for the size of the structure and the data in the structure are constantly changing.","Answer3":"data structure","Answer4":"for none of above situation","correct":"for the size of the structure and the data in the structure are constantly changing."},
+			{"Question":"The operation of processing each element in the list is known as ......","Answer1":"sorting","Answer2":"merging","Answer3":"inserting","Answer4":"traversal","correct":"traversal"},
+			{"Question":"The situation when in a linked list START=NULL is ....","Answer1":"Underflow","Answer2":"Overflow","Answer3":"Houseful","Answer4":"Saturated","correct":"Underflow"},									{"Question":"Each node in singly linked list has ........ fields.","Answer1":"2","Answer2":"3","Answer3":"1","Answer4":"4","correct":"2"}
+			],
+			"URL":"https://www.youtube.com/watch?v=NobHlGUjV3g"},
+			{"topic_name":"stacks","topic_Definition":"push adds an item to the top of the stack, pop removes the item from the top","topic_Example":"---",
+		"questions":[
+			{"Question":" ......... form of access is used to add and remove nodes from a queue","Answer1":"LIFO, Last In First Out","Answer2":"FIFO, First In First Out
+","Answer3":"Both a and b
+","Answer4":"None of these
+","correct":"FIFO, First In First Out
+"},
+			{"Question":"In liked representation of stack ....... holds the elements of the stack.
+","Answer1":"INFO fields","Answer2":"TOP fields","Answer3":"LINK fields","Answer4":"NULL fields","correct":"INFO fields"},
+			{"Question":"........ form of access is used to add remove nodes from a stack.","Answer1":"LIFO","Answer2":"FIFO","Answer3":"Both A and B","Answer4":"None of these
+","correct":"LIFO"},
+			{"Question":"In the linked representation of the stack ......... behaves as the top pointer variable of stack.
+","Answer1":"Stop pointer
+","Answer2":"Begin pointer","Answer3":"Start pointer
+","Answer4":"Avail pointer
+","correct":"Start pointer
+"},							{"Question":" New nodes are added to the ......... of the queue","Answer1":" Front
+","Answer2":"Back
+","Answer3":"Middle
+","Answer4":"Both 1 & 2
+","correct":"Back"}
+			],
+		"URL":"https://www.youtube.com/watch?v=F1F2imiOJfk"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},
+	{
+	"course_name":"CMPS305 operating system",
+	"topics":[
+		{"topic_name":"Threads","topic_Definition":"a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system.","topic_Example":"Thread myThread = new Thread(); mythread.start()",
+		"questions":[
+			{"Question":"What is the name of the method used to start a thread execution?","Answer1":"init();","Answer2":"start();","Answer3":"run();","Answer4":"resume();","correct":"start();"},								{"Question":"
+Which cannot directly cause a thread to stop executing?","Answer1":"Calling the SetPriority() method on a Thread object.","Answer2":"Calling the wait() method on an object","Answer3":"Calling notify() method on an object.","Answer4":"Calling read() method on an InputStream object","correct":"Calling notify() method on an object."},
+			{"Question":"Which of the following will directly stop the execution of a Thread?","Answer1":"wait()","Answer2":"notify()","Answer3":"notifyall()","Answer4":"exits synchronized code","correct":"wait()"},
+			{"Question":"Which method must be defined by a class implementing the java.lang.Runnable interface?","Answer1":"void run()","Answer2":"public void run()","Answer3":"public void start()","Answer4":"void run(int priority)","correct":"public void run()"},			
+			{"Question":"Which will contain the body of the thread?","Answer1":"start();","Answer2":"stop();","Answer3":"run();","Answer4":"main();","correct":"run();"}
+		],
+		"URL":"https://www.youtube.com/watch?v=b5sj13Z7aho"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555}
+			    ]
+	},
+	{
+	"course_name":"CMPS312 Mobile application development",
+	"topics":[
+		{"topic_name":"networking in android","topic_Definition":"In order to perform network operations in your application, your manifest must include the following permissions:
+<uses-permission android:name="android.permission.INTERNET" />
+","topic_Example":"---",
+		"questions":[
+			{"Question":"What are the JSON elements in android?","Answer1":"integer, boolean","Answer2":"boolean","Answer3":"null","Answer4":"number , string , boolean , null , array","correct":"number , string , boolean , null , array"},							{"Question":"What is JSON in android?","Answer1":"Java Script Object Native","Answer2":"Java Script Oriented Notation","Answer3":"Java Script Object Notation","Answer4":"None of the Above","correct":"Java Script Object Notation"},
+			{"Question":"What is the JSON exception in android?","Answer1":"JSon Exception","Answer2":"Json Not found exception","Answer3":"Input not found exception","Answer4":"None of the above","correct":"JSon Exception"},			
+			{"Question":"What are the functionalities of HTTP Client interface in android?","Answer1":"Connection management","Answer2":"Cookies management","Answer3":"Authentication management","Answer4":"All of the above","correct":"All of the above"}
+		],
+		"URL":"https://www.youtube.com/watch?v=BSyTJSbNPdc"}
+		],"centers":[
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},
+	{
+	"course_name":"CMPS411 Software Engineering",
+	"topics":[
+		{"topic_name":"adapters","topic_Definition":"In software engineering, the adapter pattern is a software design pattern (also known as Wrapper, an alternative naming shared with the Decorator pattern) that allows the interface of an existing class to be used as another interface.n","topic_Example":"---",
+		"questions":[
+			{"Question":"Which of the following is true for Adapter pattern?","Answer1":"An adapter or wrapper is a component that provides a new interface for an existing component","Answer2":"An Adapter or Wrapper pattern is a broker pattern that provides a new interface for existing software so that it can be reused","Answer3":"Adaptation for reuse is an old technique that has been used since the beginning of software development","Answer4":"All of the mentioned","correct":"All of the mentioned"},
+			{"Question":"The Adapter patterns provide object-oriented adapters in which of theses varieties?","Answer1":"One uses inheritance","Answer2":"one uses delegation","Answer3":"All of the mentioned","Answer4":"None of the mentioned","correct":"All of the mentioned"},
+			{"Question":"Which of these states about Object Adapter pattern?","Answer1":"The adapter can inherit adaptee operations with appropriate semantics and pragmatics, override those with inappropriate semantics or pragmatics, and add operations needed for the new interface","Answer2":"The adapter may hold a reference to the adaptee and delegate most work to the adaptee object","Answer3":"All of the mentioned","Answer4":"None of the mentioned","correct":"The adapter may hold a reference to the adaptee and delegate most work to the adaptee object"},
+			{"Question":"Which of the following is not followed by proxy pattern?","Answer1":"virtual proxies","Answer2":"remote proxies","Answer3":"access proxies","Answer4":"None of the mentioned","correct":"None of the mentioned"},							{"Question":"What are stand-ins for objects not yet created are called?","Answer1":"virtual proxies","Answer2":"remote proxies","Answer3":"access proxies","Answer4":"None of the mentioned","correct":"virtual proxies"}
+			],
+		"URL":"https://www.youtube.com/watch?v=LgVylOurot8"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	}
+		
+]	
+}
