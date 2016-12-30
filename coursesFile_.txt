@@ -1,0 +1,148 @@
+{"courses":
+[
+
+	{
+	"course_name":"CMPS151 Programing Concepts",
+	"topics":[
+		{"topic_name":"objects and classes","topic_Definition":"Classes ? the definitions for the data format and available procedures for a given 		type or class of object; may also contain data and procedures (known as class methods) themselves, i.e. classes contains the data members 		and member functions
+		Objects ? instances of classes","topic_Example":"fruit is a class while apple , orange are obejects of fruit class",
+		"questions":[
+			{"Question":"which one of these is a 			class?","Answer1":"tomato","Answer2":"apple","Answer3":"juice","Answer4":"pinapple","correct":"juice"},
+			{"Question":"which one of these does not belong 			to the same class ?","Answer1":"toyoyta","Answer2":"gmc","Answer3":"audi","Answer4":"car","correct":"car"},
+			{"Question":"which of these is not one of thevariables in student class ?","Answer1":"student name","Answer2":"student id","Answer3":"Alya","Answer4":"birthdate","correct":"Alya"},
+			{"Question":"Which one is class from the following 			?","Answer1":"Animal","Answer2":"cat","Answer3":"dog","Answer4":"horse","correct":"Animal"},									{"Question":"q5t1java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+			],
+			"URL":"https://www.youtube.com/watch?v=4XRy-TdfU0I"},
+			{"topic_name":"arrays","topic_Definition":"An array is a group of variables/elements of the same type , Arrays are objects","topic_Example":"int[] c = new int[ 12 ];",
+		"questions":[
+			{"Question":"q1t2java","Answer1":"A1-correct","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A1-correct"},
+			{"Question":"q2t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A2"},
+			{"Question":"q3t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A3"},
+			{"Question":"q4t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A4"},							{"Question":"q5t2java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"A5"}
+			],
+		"URL":"https://www.youtube.com/watch?v=ZLk7qV9wEDw"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},{
+	"course_name":"CMPS251 Object Oriented Programing",
+	"topics":[
+		{"topic_name":"java1","topic_Definition":"java1 definition","topic_Example":"java1 example",
+		"questions":[
+			{"Question":"Q1javat1","Answer1":"a1wrong","Answer2":"a2right","Answer3":"a3wrong","Answer4":"a4wrong","correct":"a2right"},
+			{"Question":"Q2javat1","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"a1"},
+			{"Question":"Q3javat1","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"a1"},
+			{"Question":"Q4javat1","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"a4"},									{"Question":"Q5javat1","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"a2"}
+			],
+			"URL":"https://www.youtube.com/watch?v=4XRy-TdfU0I"},
+			{"topic_name":"Test","topic_Definition":"Test1Def","topic_Example":"Test1Example",
+		"questions":[
+			{"Question":"q1t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q2t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q5t2java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+			],
+		"URL":"https://www.youtube.com/watch?v=HiGYQofy1Lc"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},
+	{
+	"course_name":"CMPS303 Data Structure",
+	"topics":[
+		{"topic_name":"dataStructure0","topic_Definition":"dataStructure0 definition","topic_Example":"example1",
+		"questions":[
+			{"Question":"q1t0Data structure","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A1"},
+			{"Question":"q2t0Data","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A2"},
+			{"Question":"q3t0Data","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A3"},
+			{"Question":"q4t0Data","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A4"},							{"Question":"q5t0Data","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"A1"}
+			],
+			"URL":"https://www.youtube.com/watch?v=4XRy-TdfU0I"},
+			{"topic_name":"Datastructuret1","topic_Definition":"datadefinition","topic_Example":"data_example",
+		"questions":[
+			{"Question":"q1t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q2t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2java","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q5t2java","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+			],
+		"URL":"https://www.youtube.com/watch?v=Yaa3QroWe7Q"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},
+	{
+	"course_name":"CMPS305 operating system",
+	"topics":[
+		{"topic_name":"t1os","topic_Definition":"t1os_definition","topic_Example":"t1os_example",
+		"questions":[
+			{"Question":"q1t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},								{"Question":"q2t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t1os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t1os","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"https://www.youtube.com/watch?v=F1F2imiOJfk"},
+		{"topic_name":"t2os","topic_Definition":"t1_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},								{"Question":"q2t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2os","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t2os","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"https://www.youtube.com/watch?v=b5sj13Z7aho"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555}
+			    ]
+	},
+	{
+	"course_name":"CMPS312 Mobile application development",
+	"topics":[
+		{"topic_name":"t1mobile","topic_Definition":"t1mobile_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q2t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t1mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t1mobile","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"https://www.youtube.com/watch?v=BSyTJSbNPdc"},
+		{"topic_name":"t2mobile","topic_Definition":"t1_definition","topic_Example":"t1_example",
+		"questions":[
+			{"Question":"q1t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},							{"Question":"q2t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q3t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},
+			{"Question":"q4t2mobile","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"correct"},			
+			{"Question":"q5t2mobile","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"corrrect"}
+		],
+		"URL":"https://www.youtube.com/watch?v=BSyTJSbNPdc"}
+		],"centers":[
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	},
+	{
+	"course_name":"CMPS411 Software Engineering",
+	"topics":[
+		{"topic_name":"software1","topic_Definition":"software1_def","topic_Example":"software1_example",
+		"questions":[
+			{"Question":"q1t1software1","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A2"},
+			{"Question":"q2t1software1","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A1"},
+			{"Question":"q3t1software1","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A3"},
+			{"Question":"q4t1software1","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A4"},							{"Question":"q5t1software1","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"a3"}
+			],
+			"URL":"https://www.youtube.com/watch?v=LgVylOurot8"},
+			{"topic_name":"software2","topic_Definition":"software2_def","topic_Example":"software2_example",
+		"questions":[
+			{"Question":"q1t2software2","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A3"},
+			{"Question":"q2t2software2","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A4"},
+			{"Question":"q3t2software2","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A2"},
+			{"Question":"q4t2software2","Answer1":"A1","Answer2":"A2","Answer3":"A3","Answer4":"A4","correct":"A1"},							{"Question":"q5t2software2","Answer1":"a1","Answer2":"a2","Answer3":"a3","Answer4":"a4","correct":"a4"}
+			],
+		"URL":"https://www.youtube.com/watch?v=LgVylOurot8"}
+		],"centers":[
+				{"centerName":"Family Computer Center","latitude":25.288814,"longitude":51.521555},
+				{"centerName":"Aptech Qatar Computer Education","latitude":25.254146,"longitude":51.542938}
+			    ]
+	}
+		
+]	
+}
